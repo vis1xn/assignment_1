@@ -1,1 +1,3 @@
-new text added 
+new text added
+<<<<<<<<<<<<<<<< 
+text added 
